@@ -1,7 +1,7 @@
 # 이력서
 
 한림대학교 컴퓨터공학과 유병학
-![Uploading 사진.jpg…]()
+![사진](https://user-images.githubusercontent.com/73990783/125161342-bca58f00-e1bc-11eb-9a3a-7c74ac8edd31.jpg)
 > - __E-mail__
 >> qudgkr5652@naver.com
 > - __전화번호__
