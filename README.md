@@ -64,6 +64,6 @@
 
 |이름|역할|
 |-----|-----|
-|Server| AF_INET Server <br> 실행 시 채팅방 3개를 개설하고 Client의 접속을 기다린다.    ㅇㅇ|
+|Server| AF_INET Server <br> 실행 시 채팅방 3개를 개설하고 Client의 접속을 기다린다. <br> Client가 접속 시 메뉴를 반환해주고 입력을 기다린다. |
 |Client_Display| AF_INET Client & AF_UNIX Server <br> |
 |Client_input| AF_UNIX Client |
