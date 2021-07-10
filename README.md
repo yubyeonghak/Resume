@@ -2,7 +2,7 @@
 
 
 한림대학교 컴퓨터공학과 유병학
-![Uploading image.png…]()
+
 > - __E-mail__
 >> qudgkr5652@naver.com
 > - __전화번호__
