@@ -64,6 +64,6 @@
 
 |이름|역할|
 |-----|-----|
-|Server| AF_INET Server <br> 실행 시 채팅방 3개를 개설하고 Client의 접속을 기다린다. <br> Client가 접속 시 메뉴를 반환해주고 입력을 기다린다. <br> 입력 값에 따른 작동을 수행하고 과정을 출력한다. |
-|Client_Display| AF_INET Client & AF_UNIX Server <br> |
-|Client_input| AF_UNIX Client |
+|Server| AF_INET Server <br> 1. Client 접속 시 메뉴 전송 <br> 2. 입력 받은 값에 따른 수행 및 출력 |
+|Client_Display| AF_INET Client & AF_UNIX Server <br> 1. Server에게 받은 메뉴 출력 <br> Client_input 에게 받은 값 전달|
+|Client_input| AF_UNIX Client <br> 입력하여 Client_Display에게 전달 | 
