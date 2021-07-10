@@ -56,5 +56,5 @@
 - 다중 채팅 : 하나의 채팅방에 다수의 사용자가 참여할 수 있어야 함
 ---
 
-<img src="https://user-images.githubusercontent.com/73990783/125162236-b239c400-e1c1-11eb-879e-06352907297c.png" alt="사진" width="50%" hight="50%"> <img src="https://user-images.githubusercontent.com/73990783/125162528-4fe1c300-e1c3-11eb-8e3d-4c8afe380afc.jpg" alt="사진" width="50%" hight="50%">
+<img src="https://user-images.githubusercontent.com/73990783/125162236-b239c400-e1c1-11eb-879e-06352907297c.png" alt="사진" width="40%" hight="40%"> <img src="https://user-images.githubusercontent.com/73990783/125162528-4fe1c300-e1c3-11eb-8e3d-4c8afe380afc.jpg" alt="사진" width="50%" hight="50%">
 
