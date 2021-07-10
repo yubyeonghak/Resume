@@ -65,5 +65,5 @@
 |이름|역할|
 |-----|-----|
 |Server| **AF_INET Server** <br> - Client 접속 시 메뉴 전송　　　　　　　　　　 - 입력 받은 값에 따른 수행 및 출력 |
-|Client_Display| **AF_INET Client & AF_UNIX Server** <br> - Server에게 받은 메뉴 출력 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Client_input 에게 받은 값 전달|
+|Client_Display| **AF_INET Client & AF_UNIX Server** <br> - Server에게 받은 메뉴 출력 　　　　　　　　　　　　　 - Client_input 에게 받은 값 전달|
 |Client_input| **AF_UNIX Client** <br> - 입력하여 Client_Display에게 전달 | 
