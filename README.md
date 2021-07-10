@@ -64,6 +64,6 @@
 
 |이름|역할|
 |-----|-----|
-|Server| AF_INET Server <br> dds |
+|:Server:|: AF_INET Server <br> dds :|
 |Client_Display| AF_INET Client & AF_UNIX Server |
 |Client_input| AF_UNIX Client |
