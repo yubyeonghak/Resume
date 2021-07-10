@@ -1,6 +1,6 @@
 # 이력서
 
-한림대학교 컴퓨터공학과 유병학
+**한림대학교 컴퓨터공학과 유병학**
 
 
 <img src="https://user-images.githubusercontent.com/73990783/125161374-e5c61f80-e1bc-11eb-9d95-b80980551ce7.jpg" alt="사진" width=30% hight="30%">
