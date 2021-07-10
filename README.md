@@ -58,6 +58,8 @@
 
 <img src="https://user-images.githubusercontent.com/73990783/125162236-b239c400-e1c1-11eb-879e-06352907297c.png" alt="사진" width="45%" hight="45%">   <img src="https://user-images.githubusercontent.com/73990783/125162528-4fe1c300-e1c3-11eb-8e3d-4c8afe380afc.jpg" alt="사진" width="50%" hight="50%">
 
+
+
 네트워크에 대한 지식을 토대로 SOCK_STREAM(TCP) 다중 채팅방을 구현하였습니다.
 
 소스 코드는 Server, Client_Display, Client_input으로 구성되어있으며 각 역할은 아래의 표와 같습니다.
@@ -67,6 +69,8 @@
 |Server| **AF_INET Server** <br> - Client 접속 시 메뉴 전송　　　　　 - 입력 받은 값에 따른 수행 및 출력　 |
 |Client_Display| **AF_INET Client & AF_UNIX Server** <br> - Server에게 받은 메뉴 출력 　　　　 - Client_input 에게 받은 값 전달　 |
 |Client_input| **AF_UNIX Client** <br> - 입력하여 Client_Display에게 전달 　| 
+
+
 
 
 - 아래는 각 채팅방에 입장 후, 같은 채팅방에 있는 Client끼리 채팅하는 과정을 보여준다.
