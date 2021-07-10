@@ -58,3 +58,13 @@
 
 <img src="https://user-images.githubusercontent.com/73990783/125162236-b239c400-e1c1-11eb-879e-06352907297c.png" alt="사진" width="45%" hight="45%">   <img src="https://user-images.githubusercontent.com/73990783/125162528-4fe1c300-e1c3-11eb-8e3d-4c8afe380afc.jpg" alt="사진" width="50%" hight="50%">
 
+네트워크에 대한 지식을 토대로 SOCK_STREAM(TCP) 다중 채팅방을 구현하였습니다.
+
+소스 코드는 Server, Client_Display, Client_input으로 구성되어있으며 각 역할은 아래의 표와 같습니다.
+
+|이름|역할|
+|-----|-----|
+|Server|dsdsds
+dsdsds|
+|Client_Display|dsdsds|
+|Client_input|dsdS|
