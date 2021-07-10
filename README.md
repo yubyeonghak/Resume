@@ -68,6 +68,6 @@
 |Client_Display| **AF_INET Client & AF_UNIX Server** <br> - Server에게 받은 메뉴 출력 　　　　 - Client_input 에게 받은 값 전달　 |
 |Client_input| **AF_UNIX Client** <br> - 입력하여 Client_Display에게 전달 　| 
 
-<img src="https://user-images.githubusercontent.com/73990783/125167288-bcb48780-e1da-11eb-9821-257e4e2a9a82.jpg" alt="사진" width="80%" hight="80%">
+<img src="https://user-images.githubusercontent.com/73990783/125167288-bcb48780-e1da-11eb-9821-257e4e2a9a82.jpg" alt="사진" width="100%" hight="100%">
 
 
