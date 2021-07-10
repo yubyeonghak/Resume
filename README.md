@@ -68,7 +68,11 @@
 |Client_Display| **AF_INET Client & AF_UNIX Server** <br> - Server에게 받은 메뉴 출력 　　　　 - Client_input 에게 받은 값 전달　 |
 |Client_input| **AF_UNIX Client** <br> - 입력하여 Client_Display에게 전달 　| 
 
+
+- <br> 아래는 각 채팅방에 입장 후, 같은 채팅방에 있는 Client끼리 채팅하는 과정을 보여준다. <br>
+- Client_input 창에서 입력을 하면 Client_Display 창에 출력이 되고 서버로 메세지를 전송해준다.  <br>
+- 위와 같은 행위를 감지하면 서버는 어떤 행위인지 출력하고 같은 채팅방의 Client에게 메세지를 보내준다. <br>
+
 <img src="https://user-images.githubusercontent.com/73990783/125167288-bcb48780-e1da-11eb-9821-257e4e2a9a82.jpg" alt="사진" width="100%" hight="100%">
 
-- 위는 각 채팅방에 입장 후, 같은 채팅방에 있는 Client끼리 채팅하는 과정을 보여준다.   
-- 
+
