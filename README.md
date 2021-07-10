@@ -70,4 +70,5 @@
 
 <img src="https://user-images.githubusercontent.com/73990783/125167288-bcb48780-e1da-11eb-9821-257e4e2a9a82.jpg" alt="사진" width="100%" hight="100%">
 
-
+- 위는 각 채팅방에 입장 후, 같은 채팅방에 있는 Client끼리 채팅하는 과정을 보여준다.   
+- 
